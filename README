@@ -1,0 +1,9 @@
+Work time application in finnish.
+Written in C# for the WPF Framework.
+
+My small project during my time in the Aurajokisäätiö summer 2013.
+Uses XML to store data.
+
+Setup:
+	Install in wanted folder. The application creates C:/Wrap/ folder where it stores all of its
+	XML data.
